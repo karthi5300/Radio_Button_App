@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Radio Button App</string>
+    <string name="google">http://www.google.com</string>
+    <string name="yahoo">http://www.yahoo.com</string>
+</resources>
